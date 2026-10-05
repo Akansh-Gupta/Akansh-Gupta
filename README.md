@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m currently working on strengthening my Data Structures & Algorithms skills and building full-stack projects.<br>👯 I’m looking to collaborate on Java, React, and open-source projects.<br>🤝 I’m looking for help with competitive programming, system design, and backend development.<br>🌱 I’m currently learning Advanced DSA, Dynamic Programming, React, and Node.js.<br>💬 Ask me about Java, DSA, LeetCode, Git, and web development.<br>⚡ Fun fact: I believe every bug is just an undocumented feature until it's fixed.<br>
 
    
